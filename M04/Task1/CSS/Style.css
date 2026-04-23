@@ -1,0 +1,47 @@
+body {
+  background-color: hsl(211, 79%, 78%);
+}
+
+header {
+  background-image: linear-gradient(
+    to left,
+    #03030d,
+    #5b59db,
+    #5ed576,
+    #5b59db,
+    #03030d
+  );
+  color: black;
+  padding: 50px;
+  margin: 20px;
+  border-radius: 20px;
+}
+
+article {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20px;
+  background: white;
+  margin: 20px;
+  padding: 20px;
+  border-radius: 20px;
+  border: 3px solid #07ffb5;
+}
+
+aside {
+  background: white;
+  margin: 20px;
+  padding: 15px;
+  border-radius: 20px;
+}
+
+footer {
+  background: #333;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  border-radius: 20px;
+}
+
+footer a {
+  color: #90e0ef;
+}
